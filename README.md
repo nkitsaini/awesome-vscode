@@ -504,6 +504,8 @@ With MATLAB installed:
 
 > Markdown language server for note-taking with standard file-link completion, broken-link diagnostics, daily notes, and table formatting.
 
+![Sanemark file-link completion, formatting, and daily notes in VS Code](screenshots/sanemark.gif)
+
 ## PHP
 
 ### [PHP Tools](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
